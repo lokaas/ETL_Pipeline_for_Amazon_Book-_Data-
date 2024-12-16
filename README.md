@@ -67,3 +67,13 @@ Here is the pipeline design for the book scraping and ETL process:
 ![Pipeline Diagram](https://github.com/lokaas/ETL_Pipeline_for_Amazon_Book-_Data-/blob/main/images/Capture.PNG)
 
 
+
+
+## Additional Documentation
+
+You can find more details about the project in the following PDF:
+
+[Download Project Documentation](https://github.com/lokaas/ETL_Pipeline_for_Amazon_Book-_Data-/tree/main/Project_Documentation)
+
+
+
