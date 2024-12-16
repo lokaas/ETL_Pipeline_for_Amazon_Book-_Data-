@@ -60,5 +60,10 @@ The project follows an ETL process defined by a Directed Acyclic Graph (DAG) in 
 - PostgreSQL
 - Apache Airflow
 
+## Pipeline Design
+
+Here is the pipeline design for the book scraping and ETL process:
+
+![Pipeline Diagram](https://github.com/lokaas/ETL_Pipeline_for_Amazon_Book-_Data-/blob/main/images/Capture.PNG)
 
 
