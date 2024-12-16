@@ -35,3 +35,21 @@
 ├── README.md                      # Project documentation
 └── requirements.txt               # Project dependencies
 
+
+
+---
+
+## Requirements
+Tools and Libraries
+To run this project, ensure the following tools and libraries are installed:
+
+Apache Airflow (2.x or later)
+PostgreSQL
+Python (3.8+)
+Required Python Libraries:
+pandas
+requests
+beautifulsoup4
+apache-airflow
+apache-airflow-providers-postgres
+
