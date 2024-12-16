@@ -26,14 +26,6 @@
 
 ---
 
-## File Structure
-
-```plaintext
-.
-├── dags
-│   └── amazon_books_dag.py        # Airflow DAG for ETL pipeline
-├── README.md                      # Project documentation
-└── requirements.txt               # Project dependencies
 
 
 
